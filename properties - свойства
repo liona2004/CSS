@@ -24,4 +24,11 @@ CSS, which stands for Cascading Style Sheets - Каскадные таблицы
 h2 class="blue-text">CatPhotoApp</h2>
 
 
+свойство font-size определяет размер шрифта
+p {
+    font-size: 16px;
+  }
+
+
+
 -->
