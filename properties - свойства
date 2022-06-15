@@ -61,7 +61,7 @@ CSS borders have properties like style, color and width.
   }
 </style>
 
-<img class="class1 class2">
+<img class="class1 class2"> // несколько классов присваиваются через пробел
 border-radius // скругление углов
 
 
