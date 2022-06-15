@@ -39,5 +39,14 @@ When one font isn't available, you can tell the browser to "degrade" to another 
  font-family: FAMILY_NAME, GENERIC_NAME; // общее семейство шрифтов
  Family names are case-sensitive and need to be wrapped in quotes if there is a space in the name. 
  For example, you need quotes to use the "Open Sans" font, but not to use the Lobster font.
+ 
+ свойство width - устанавливает ширину элемента/фото можно в пикселях px
+ <style>
+  .larger-image {
+    width: 500px;
+  }
+</style>
+
+или <a href="#"><img class="smaller-image" src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
 
 -->
