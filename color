@@ -1,3 +1,12 @@
 <!-- атрибут style будет заключаться внутри скобок элемента. Цвет текста элемента задается свойством color the color style property
-<h2 style="color: red;"> CatPhotoApp</h2>
+<h2 style="color: red;"> CatPhotoApp</h2> // тут мы задали цвет индивидуальному элементу
+CSS, which stands for Cascading Style Sheets - Каскадные таблицы стилей
+
+<style> // внутри блока style мы создали селектор для всех h2 элементов
+  h2 {
+    color: red;
+  }
+</style>
+
+
 -->
