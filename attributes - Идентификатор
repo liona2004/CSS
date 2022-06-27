@@ -1,0 +1,6 @@
+/*  
+id attributes should be unique. Идентификатор. You always reference ids by putting a # in front of their names.
+*/
+#cat-photo-element {
+  background-color: green;
+}
