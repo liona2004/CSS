@@ -73,8 +73,10 @@ If you set an element's margin to a negative value, the element will grow larger
 different amounts of padding on each of its sides: padding-top, padding-right, padding-bottom, and padding-left properties.
 
 
+также margin-top, margin-right, margin-bottom, and margin-left properties
 
-
+а можно так: padding: 10px 20px 10px 20px; 
+These four values work like a clock: top, right, bottom, left
 
 -->
 
