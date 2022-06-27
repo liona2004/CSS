@@ -65,7 +65,7 @@ CSS borders have properties like style, color and width.
 border-radius // скругление углов
 
 
-поля (padding) и отступы (margin) 
+поля (padding) - внутри; и отступы (margin) - внешние 
 An element's margin controls the amount of space between an element's border and surrounding elements.
 An element's padding controls the amount of space between the element's content and its border
 If you set an element's margin to a negative value, the element will grow larger.
