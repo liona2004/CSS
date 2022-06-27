@@ -7,3 +7,6 @@
   }
 
 </style>
+
+inline styles look like this:
+<h1 style="color: green;">
