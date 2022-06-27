@@ -10,3 +10,7 @@
 
 inline styles look like this:
 <h1 style="color: green;">
+
+.pink-text {
+    color: pink !important;
+ } //!important позволяет повысить приоритет стиля
