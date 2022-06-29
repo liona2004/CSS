@@ -1,0 +1,3 @@
+--penguin-skin: gray;
+you can use that variable elsewhere in your CSS to change the value of other properties to gray.
+background: var(--penguin-skin);
