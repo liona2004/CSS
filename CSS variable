@@ -1,3 +1,8 @@
 --penguin-skin: gray;
 you can use that variable elsewhere in your CSS to change the value of other properties to gray.
 background: var(--penguin-skin);
+
+
+When using your variable as a CSS property value, you can attach a fallback value that your browser will revert to if the given variable is invalid.
+background: var(--penguin-skin, black);
+This will set background to black if your variable wasn't set.
