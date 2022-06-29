@@ -6,3 +6,7 @@ background: var(--penguin-skin);
 When using your variable as a CSS property value, you can attach a fallback value that your browser will revert to if the given variable is invalid.
 background: var(--penguin-skin, black);
 This will set background to black if your variable wasn't set.
+        That way an older browser will have something to fall back on
+        .red-box {
+        background: red;
+        background: var(--red-color);
