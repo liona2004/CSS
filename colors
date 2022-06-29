@@ -1,0 +1,15 @@
+Hexadecimals (or hex) are base 16 numbers. 
+In CSS, we can use 6 hexadecimal digits to represent colors, two each for the red (R), green (G), and blue (B) components
+
+The digit 0 is the lowest number in hex code, and represents a complete absence of color.
+The digit F is the highest number in hex code, and represents the maximum possible brightness.
+hex code #FF0000 can be shortened to #F00
+
+Another way you can represent colors in CSS is by using RGB values.
+The RGB value for black looks like this:
+
+rgb(0, 0, 0)
+The RGB value for white looks like this:
+
+rgb(255, 255, 255)
+with RGB you specify the brightness of each color with a number between 0 and 255.
