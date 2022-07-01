@@ -1,0 +1,10 @@
+Свойство background-attachment устанавливает, будет ли прокручиваться фоновое изображение вместе с содержимым элемента
+
+fixed
+Делает фоновое изображение элемента неподвижным.
+scroll
+Позволяет перемещаться фону вместе с содержимым.
+
+
+background-image: url("pink-and-white-rose-with-petal.jpg");
+background-attachment: fixed;
